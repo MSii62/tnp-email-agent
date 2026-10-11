@@ -1,0 +1,11 @@
+credentials.json
+token.json
+.env
+__pycache__/
+*.pyc
+.venv/
+*.db
+private_key.pem
+public_key.pemvenv/
+node_modules/
+venv/
